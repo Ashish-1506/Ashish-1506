@@ -20,7 +20,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=38B2AC&height=2&section=header" width="70%"/>
 </div>
 
-<img align="right" width="320" src="assets/coding.gif" alt="Pixel Art Coding Animation" />
+<!-- FRAMED GIF USING TABLE -->
+<table align="right" cellspacing="0" cellpadding="2" style="margin-left: 15px;">
+  <tr>
+    <td bgcolor="#38B2AC">
+      <img width="320" src="assets/coding.gif" alt="Pixel Art Coding Animation" />
+    </td>
+  </tr>
+</table>
+
 <p>🚀 I build <b>full-stack and AI-powered applications</b>, with a focus on backend engineering, scalable architectures, and practical AI integration.</p>
 <p>🔍 Interested in <b>distributed systems, developer tools, AI engineering</b>, and turning complex ideas into reliable software.</p>
 <p>🧠 I enjoy working across the stack — from designing APIs and databases to building intelligent applications.</p>
