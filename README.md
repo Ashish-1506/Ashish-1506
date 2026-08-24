@@ -19,7 +19,7 @@
 
 <div>
   <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED PIXEL ART GIF LINK -->
-  <img align="right" width="320" src="YOUR_PIXEL_ART_GIF_URL_HERE" alt="Pixel Art Coding Animation" />
+  <img align="right" width="320" src="assets/coding.gif" alt="Pixel Art Coding Animation" />
   <p>
     🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.
   </p>
