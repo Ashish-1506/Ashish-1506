@@ -6,37 +6,27 @@
   <a href="https://linkedin.com/in/ashish-ranjan-966986289">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Ashish-1506">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
-<br>
+---
+
+### 💡 About Me
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<br>
-
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Bulb.png" width="35" /> About Me</h3>
-
-<div>
-  <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED PIXEL ART GIF LINK -->
-  <img align="right" width="320" src="YOUR_PIXEL_ART_GIF_URL_HERE" alt="Pixel Art Coding Animation" />
   <p>
-    🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.
+    <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
   </p>
-  <p>
+  <p align="left">
+    🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.<br><br>
     🔍 Interested in distributed systems, developer tools, and turning complex ideas into reliable software.
   </p>
 </div>
 
-<br clear="both">
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="35" /> Tech Stack & Tools</h3>
+### 🧠 Tech Stack & Tools
 
 <div align="center">
 
@@ -55,21 +45,21 @@
 <br>**AI & Data Science**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)
 
-<br>**Design & Game Dev Tools**<br>
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![CUDA](https://img.shields.io/badge/cuda-000000.svg?logo=nVIDIA&logoColor=green)
+<br>**Design & Other Tools**<br>
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+
+<br>**Game Dev & Rendering**<br>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![CUDA](https://img.shields.io/badge/cuda-000000.svg?logo=nVIDIA&logoColor=green) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?logo=Ubisoft&logoColor=black)
 
 </div>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> Stats & Trophies</h3>
+### 🏆 & 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ashish-1506&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ashish-1506&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
