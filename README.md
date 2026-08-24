@@ -20,7 +20,8 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Bulb.png" width="35" /> About Me</h3>
 
 <div>
-  <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
+  <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED PIXEL ART GIF LINK -->
+  <img align="right" width="320" src="YOUR_PIXEL_ART_GIF_URL_HERE" alt="Pixel Art Coding Animation" />
   <p>
     🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.
   </p>
