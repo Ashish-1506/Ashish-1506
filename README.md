@@ -6,18 +6,28 @@
   <a href="https://linkedin.com/in/ashish-ranjan-966986289">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://github.com/Ashish-1506">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 ---
 
 ### 💡 About Me
 
-<div align="center">
+<div>
+  <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED PIXEL ART GIF LINK -->
+  <img align="right" width="320" src="YOUR_PIXEL_ART_GIF_URL_HERE" alt="Pixel Art Coding Animation" />
   <p>
-    <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
+    🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.
   </p>
-  <p align="left">
-    🚀 I build full-stack and AI-powered applications, with a focus on backend engineering, scalable architectures, and practical AI integration.<br><br>
+  <p>
     🔍 Interested in distributed systems, developer tools, and turning complex ideas into reliable software.
   </p>
 </div>
