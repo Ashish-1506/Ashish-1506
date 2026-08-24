@@ -185,49 +185,21 @@
 
 <br>
 
-<!-- TROPHIES -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish-1506&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
-
-<br>
 
 <!-- STATS -->
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish-1506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-1506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="https://streak-stats.demolab.com/?user=Ashish-1506&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashish-1506&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-<br>
-
-<!-- STREAK -->
+<br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Ashish-1506&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Ashish-1506&icon=0&color=0" alt="Profile Views" />
+  </a>
 </div>
-
-<br>
-
-<!-- CONTRIBUTION SNAKE -->
-
-<div align="center">
-
-<h3>🐍 Contribution Activity</h3>
-
-<img src="https://raw.githubusercontent.com/Ashish-1506/Ashish-1506/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>
-
-<br>
 
 <!-- FOOTER -->
 
