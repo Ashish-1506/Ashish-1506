@@ -50,10 +50,6 @@
 
 🔬 I also do **deep learning research** in biomedical image segmentation, with a paper published in *Frontiers in Artificial Intelligence*.
 
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/coding.gif" width="300" alt="Pixel art coding animation" />
-    </td>
   </tr>
 </table>
 
@@ -81,13 +77,19 @@
 
 <div align="center">
 
+<a href="https://github.com/Ashish-1506/CogniFlow"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Ashish-1506&repo=CogniFlow&show_owner=false&bg_color=0B0F1A&border_color=1E293B&title_color=6366F1&text_color=94A3B8&icon_color=22D3EE" alt="CogniFlow repository" /></a>
+<a href="https://github.com/Ashish-1506/Resilio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Ashish-1506&repo=Resilio&show_owner=false&bg_color=0B0F1A&border_color=1E293B&title_color=6366F1&text_color=94A3B8&icon_color=22D3EE" alt="Resilio repository" /></a>
+<a href="https://github.com/Ashish-1506/InterviewAI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Ashish-1506&repo=InterviewAI&show_owner=false&bg_color=0B0F1A&border_color=1E293B&title_color=6366F1&text_color=94A3B8&icon_color=22D3EE" alt="InterviewAI repository" /></a>
+
+<br/><br/>
+
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **[CogniFlow](https://Ashish-1506.github.io/Portfolio/#projects)** | Autonomous agentic RAG assistant with dual hierarchical memory, live tool execution and MCP integration | `LangGraph` `ChromaDB` `SQLite` `React` `WebSockets` `LangSmith` |
-| **[Resilio](https://Ashish-1506.github.io/Portfolio/#projects)** | AI-powered distributed-system reliability platform with chaos fault injection and LLM root-cause analysis | `Docker` `Azure` `Prometheus` `OpenTelemetry` `WebSockets` |
-| **[InterviewAI](https://Ashish-1506.github.io/Portfolio/#projects)** | Full-stack AI interview prep platform with voice responses, AI scoring and isolated code evaluation | `React` `Node.js` `FastAPI` `MongoDB` `LangChain` `FAISS` `Whisper` |
+| **[CogniFlow](https://github.com/Ashish-1506/CogniFlow)** | Autonomous agentic RAG assistant with dual hierarchical memory, live tool execution and MCP integration | `LangGraph` `ChromaDB` `SQLite` `React` `WebSockets` `LangSmith` |
+| **[Resilio](https://github.com/Ashish-1506/Resilio)** | AI-powered distributed-system reliability platform with chaos fault injection and LLM root-cause analysis | `Docker` `Azure` `Prometheus` `OpenTelemetry` `WebSockets` |
+| **[InterviewAI](https://github.com/Ashish-1506/InterviewAI)** | Full-stack AI interview prep platform with voice responses, AI scoring and isolated code evaluation | `React` `Node.js` `FastAPI` `MongoDB` `LangChain` `FAISS` `Whisper` |
 
-<sub>Full details, tech breakdowns and repo links are on my <a href="https://Ashish-1506.github.io/Portfolio/#projects"><b>portfolio</b></a>.</sub>
+<sub>Tech breakdowns, screenshots and more details are on my <a href="https://Ashish-1506.github.io/Portfolio/#projects"><b>portfolio</b></a>.</sub>
 
 </div>
 
